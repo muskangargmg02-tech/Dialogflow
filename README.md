@@ -119,10 +119,10 @@ The chatbot is integrated with Kommunicate to provide:
 <img src="./response.png" alt="Chatbot Response Testing" width="1000"/>
 
 ### Service Account Creation
-<img src="./service_account.png" alt="Service Account Creation" width="1000"/>
+<img src="./service-account.png" alt="Service Account Creation" width="1000"/>
 
 ### JSON Key Generation
-<img src="./json_key.png" alt="JSON Key Generation" width="1000"/>
+<img src="./json-key.png" alt="JSON Key Generation" width="1000"/>
 
 ### Kommunicate Setup
 <img src="./kommunicate_Setup.png" alt="Kommunicate Setup" width="1000"/>
